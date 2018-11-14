@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 24,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-cmd.exe",
+    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Monokai",
+
+    // 可选
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html",
+    },
+}
