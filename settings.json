@@ -1,6 +1,7 @@
 {
     "editor.fontSize": 24,
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-cmd.exe",
+    //"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe", //使用多个shell
     "eslint.autoFixOnSave": true,
     "workbench.colorTheme": "Monokai",
 
